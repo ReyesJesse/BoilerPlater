@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "inquire": "^0.4.8",
+    "inquirer": "^10.1.8",
+    "socket.io": "4.6.1"
+  },"scripts": {
+  "dev": "nodemon src/app.js"
+}
+}
